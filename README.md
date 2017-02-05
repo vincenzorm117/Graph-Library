@@ -7,7 +7,8 @@ It is a library of numerous graph algorithms. Graph implementation is adjacency 
 
 
 ## File Input Format for Graph
-
+```
 (number of vertices V)
 (number of edges E)
-(origin>	(destination)	(weight)
+(origin)	(destination)	(weight)
+```
